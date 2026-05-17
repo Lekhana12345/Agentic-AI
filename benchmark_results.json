@@ -1,0 +1,52 @@
+[
+  {
+    "query": "What is 25 * 48?",
+    "response": "1200",
+    "status": "success"
+  },
+  {
+    "query": "Latest news about AI",
+    "response": "Here is the latest news regarding Artificial Intelligence:\n\n1. **Nvidia's Trillion-Dollar Bet and Space Computing**: Nvidia is heavily targeting AI inference, projecting the chip revenue opportunity to hit $1 trillion. Furthermore, the company has launched \"Space Computing\" initiatives aimed at rocketing AI capabilities into orbit.\n2. **Deepfakes and Global Politics**: Israeli Prime Minister Benjamin Netanyahu recently posted a \"proof of life\" video as advanced AI continues to sow public doubt about what is real and what is synthetically generated.\n3. **AI in Defense Tech**: Gecko Robotics has secured a next-generation defense technology deal to bring its AI systems to the U.S. Navy for ship repair and maintenance.\n\nThese updates highlight AI's rapidly expanding role in global politics, aerospace, military defense, and the massive economic scale of AI hardware.",
+    "status": "success"
+  },
+  {
+    "query": "Calculate 2^10 + 500",
+    "response": "1524",
+    "status": "success"
+  },
+  {
+    "query": "Write Python code to sort a list",
+    "response": "Here is the Python code to sort a list using two common approaches:\n\n```python\n# Approach 1: Using the sorted() function (returns a new sorted list)\nmy_list = [5, 2, 9, 1, 5, 6]\nnew_sorted_list = sorted(my_list)\nprint(\"Sorted list:\", new_sorted_list)\nprint(\"Original list remains unchanged:\", my_list)\n\n# Approach 2: Using the .sort() method (sorts the list in place)\nmy_list = [5, 2, 9, 1, 5, 6]\nmy_list.sort()\nprint(\"List sorted in place:\", my_list)\n\n# You can also sort in descending order\nmy_list.sort(reverse=True)\nprint(\"List sorted in descending order:\", my_list)\n```",
+    "status": "success"
+  },
+  {
+    "query": "Who is the CEO of Google?",
+    "response": "The CEO of Google is Sundar Pichai.",
+    "status": "success"
+  },
+  {
+    "query": "Plot a sine wave using Python",
+    "response": "The provided Python code uses NumPy and Matplotlib to successfully generate and display a sine wave plot.",
+    "status": "success"
+  },
+  {
+    "query": "Convert 100 USD to INR",
+    "response": "100 USD is equal to 9240 Indian Rupees.",
+    "status": "success"
+  },
+  {
+    "query": "Explain blockchain simply",
+    "response": "A blockchain is like a digital, public notebook that records transactions. Instead of being kept by one person or company (like a bank), copies of this notebook are shared across many computers around the world. When a new transaction happens, it gets added as a new \"page\" (or block) to the notebook. Once a page is added, it is locked and linked to the previous page (forming a chain), making it nearly impossible to change or cheat the system. This allows people to securely share data and trade things of value without needing a middleman.",
+    "status": "success"
+  },
+  {
+    "query": "Find population of India and double it",
+    "response": "Based on the 2025 estimated population of India (1,454,606,724), doubling it gives 2,909,213,448.",
+    "status": "success"
+  },
+  {
+    "query": "Top 5 programming languages in 2025",
+    "response": "Based on the search results, the top 5 programming languages in 2025 are generally considered to be Python, JavaScript, Java, C++, and C#.",
+    "status": "success"
+  }
+]
